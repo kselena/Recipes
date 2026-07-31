@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/Algarve-Style Lemon Cumin Chicken.md",
+                "file": "Appetizers/Egg Salad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algarve-Style Lemon Cumin Chicken"
+              "title": "Egg Salad"
             }
           }
         ]
@@ -174,5 +174,7 @@
     }
   },
   "active": "24d60382137c012d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Chicken/Algarve-Style Lemon Cumin Chicken.md"
+  ]
 }
