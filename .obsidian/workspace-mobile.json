@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appetizers/Egg Salad.md",
+                "file": "Chicken/Lemon Garlic Chicken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Egg Salad"
+              "title": "Lemon Garlic Chicken"
             }
           }
         ]
@@ -175,6 +175,7 @@
   },
   "active": "24d60382137c012d",
   "lastOpenFiles": [
+    "Appetizers/Egg Salad.md",
     "Chicken/Algarve-Style Lemon Cumin Chicken.md"
   ]
 }

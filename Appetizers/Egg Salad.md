@@ -7,6 +7,6 @@
 - 3/4tsp Paprika
 - Chives
 - 3/4 Tbsp White wine vinegar
-Fjjdh
+
 ***DIRECTIONS:***
 Mix together 
