@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beef/Meatballs/Meatballs - Smoked Paprika & Garlic.md",
+                "file": "Beef/Creamy Beef & Leek Stroganoff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meatballs - Smoked Paprika & Garlic"
+              "title": "Creamy Beef & Leek Stroganoff"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Beef/Meatballs/Meatballs - Smoked Paprika & Garlic.md",
+            "file": "Beef/Meatballs/Smoked Paprika & Garlic Meatballs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,11 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "162ada2280995d89",
+  "active": "6f42a5db24c2770a",
   "lastOpenFiles": [
+    "Beef/Beef pasta Puttanesca without anchovies.md",
+    "Beef/Creamy Beef & Leek Stroganoff.md",
+    "Beef/Meatballs/Smoked Paprika & Garlic Meatballs.md",
     "Beef/Meatballs",
     "Taco Seasoning.md",
-    "Beef/Meatballs/Meatballs - Smoked Paprika & Garlic.md",
     "Smoothie/Weekly Smoothie PreMix Optimized Daily Doses.md",
     "Chicken/Lemon-Garlic White Wine Sauce.md",
     "Chicken/Lemon Garlic Chicken.md",
