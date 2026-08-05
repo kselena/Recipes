@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beef/Creamy Beef & Leek Stroganoff.md",
+                "file": "Beef/Meatballs/Smoked Paprika & Garlic Meatballs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creamy Beef & Leek Stroganoff"
+              "title": "Smoked Paprika & Garlic Meatballs"
             }
           }
         ],
@@ -190,8 +190,9 @@
   },
   "active": "6f42a5db24c2770a",
   "lastOpenFiles": [
-    "Beef/Beef pasta Puttanesca without anchovies.md",
     "Beef/Creamy Beef & Leek Stroganoff.md",
+    "Beef/Garlic & Wine Picanha.md",
+    "Beef/Beef pasta Puttanesca without anchovies.md",
     "Beef/Meatballs/Smoked Paprika & Garlic Meatballs.md",
     "Beef/Meatballs",
     "Taco Seasoning.md",
