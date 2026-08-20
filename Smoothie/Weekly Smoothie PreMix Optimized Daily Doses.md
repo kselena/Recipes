@@ -5,8 +5,8 @@
 - ​**Spinach Powder:** 1/3 C _(1 tbsp/day — Equivalent to ~1 cup fresh greens)_
 - ​**Beet Root Powder:** 1/3 C _(1 tbsp/day or ~6g — Full nitric oxide & endurance dose)_
 - ​**Maca Root:** 1/4 cup _(~2.4 tsp/day or ~5g — Strong adaptogenic/energy dose)_
-- ​**Ground Flaxseed:** 5 tbsp _(1 tbsp/day — Ideal fiber & ALA omega-3s)_
-- ​**Chia Seeds:** 5 tbsp _(1 tbsp/day — Ideal fiber & ALA omega-3s)_
+- ​**Ground Flaxseed:** 1/3 C _(1 tbsp/day — Ideal fiber & ALA omega-3s)_
+- ​**Chia Seeds:** 1/3 C _(1 tbsp/day — Ideal fiber & ALA omega-3s)_
 - ​**Spirulina:** 5 tsp _(1 tsp/day or ~3g — Full antioxidant & recovery dose)_
 - ​**Turmeric:** 2.5 tsp _(1/2 tsp/day — Standard anti-inflammatory dose)_
 - ​**Cinnamon:** 2.5 tsp _(1/2 tsp/day — Blood sugar support)_
