@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Weekly Smoothie PreMix Optimized Daily Doses"
             }
+          },
+          {
+            "id": "ac9f149b992d95d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portuguese-Style Canja Noodle Soup & Pan-Seared Chicken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Portuguese-Style Canja Noodle Soup & Pan-Seared Chicken"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,13 +216,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcb7fe554cad91f1",
+  "active": "ac9f149b992d95d9",
   "lastOpenFiles": [
+    "Smoothie/Weekly Smoothie PreMix Optimized Daily Doses.md",
+    "Portuguese-Style Canja Noodle Soup & Pan-Seared Chicken.md",
     "Chicken/Chicken pasta puttanesca bolonhesa using bifes de frango.md",
     "Chicken/Frango com Caril à Moda Portuguesa.md",
     "Chicken/Chicken pasta Puttanesca without anchovies.md",
     "Beef/Beef pasta Puttanesca without anchovies.md",
-    "Smoothie/Weekly Smoothie PreMix Optimized Daily Doses.md",
     "Appetizers/Carrot Patê.md",
     "Beef/Hamburger/Creamy Beef & Leek Stroganoff.md",
     "Beef/Steak",
