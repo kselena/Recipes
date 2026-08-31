@@ -49,8 +49,7 @@
               "title": "Weekly Smoothie PreMix Optimized Daily Doses"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +201,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "162ada2280995d89",
+  "active": "24d60382137c012d",
   "lastOpenFiles": [
     "Smoothie/Weekly Smoothie PreMix Optimized Daily Doses.md",
     "Portuguese-Style Canja Noodle Soup & Pan-Seared Chicken.md",
