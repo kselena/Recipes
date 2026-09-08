@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/​Frango com Molho de Paprika (Paprika Cream Chicken Pasta).md",
+                "file": "Chicken/Chicken Parmesan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "​Frango com Molho de Paprika (Paprika Cream Chicken Pasta)"
+              "title": "Chicken Parmesan"
             }
           },
           {
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Portuguese-Style Canja Noodle Soup & Pan-Seared Chicken.md",
+            "file": "Chicken/Chicken Parmesan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -218,8 +218,8 @@
   },
   "active": "cf16d384caf9762d",
   "lastOpenFiles": [
-    "Chicken/Frango Estufado Rápido com Azeitonas.md",
     "Chicken/​Frango com Molho de Paprika (Paprika Cream Chicken Pasta).md",
+    "Chicken/Frango Estufado Rápido com Azeitonas.md",
     "Taco Seasoning.md",
     "Untitled",
     "Chicken/One-Pan Portuguese Tomato & Pepper Chicken Pasta.md",
