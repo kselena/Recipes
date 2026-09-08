@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chicken/Chicken Parmesan.md",
+                "file": "Chicken/​Frango com Molho de Paprika (Paprika Cream Chicken Pasta).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chicken Parmesan"
+              "title": "​Frango com Molho de Paprika (Paprika Cream Chicken Pasta)"
             }
           },
           {
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chicken/Chicken Parmesan.md",
+            "file": "Chicken/​Frango com Molho de Paprika (Paprika Cream Chicken Pasta).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -218,7 +218,11 @@
   },
   "active": "cf16d384caf9762d",
   "lastOpenFiles": [
+    "Chicken/Frango com Caril à Moda Portuguesa.md",
     "Chicken/​Frango com Molho de Paprika (Paprika Cream Chicken Pasta).md",
+    "Chicken/Bifes de Frango com Vinho Verde e Alcaparras.md",
+    "Chicken/Algarve-Style Lemon Cumin Chicken.md",
+    "Chicken/Chicken Parmesan.md",
     "Chicken/Frango Estufado Rápido com Azeitonas.md",
     "Taco Seasoning.md",
     "Untitled",
@@ -226,7 +230,6 @@
     "Smoothie/Weekly Smoothie PreMix Optimized Daily Doses.md",
     "Portuguese-Style Canja Noodle Soup & Pan-Seared Chicken.md",
     "Chicken/Chicken pasta puttanesca bolonhesa using bifes de frango.md",
-    "Chicken/Frango com Caril à Moda Portuguesa.md",
     "Chicken/Chicken pasta Puttanesca without anchovies.md",
     "Beef/Beef pasta Puttanesca without anchovies.md",
     "Appetizers/Carrot Patê.md",
@@ -239,7 +242,6 @@
     "Beef/Meatballs",
     "Chicken/Lemon-Garlic White Wine Sauce.md",
     "Chicken/Lemon Garlic Chicken.md",
-    "Appetizers/Egg Salad.md",
-    "Chicken/Algarve-Style Lemon Cumin Chicken.md"
+    "Appetizers/Egg Salad.md"
   ]
 }
