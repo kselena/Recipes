@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soup/Light Canja.md",
+                "file": "Chicken/Pan-Fried Chicken with Creamy Yogurt Pan-Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light Canja"
+              "title": "Pan-Fried Chicken with Creamy Yogurt Pan-Sauce"
+            }
+          },
+          {
+            "id": "a42c3cb6370c992b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frango Cremoso de Mostarda e Iogurte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frango Cremoso de Mostarda e Iogurte"
             }
           },
           {
@@ -77,7 +91,8 @@
               "title": "Weekly Smoothie PreMix Optimized Daily Doses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chicken/​Frango com Molho de Paprika (Paprika Cream Chicken Pasta).md",
+            "file": "Frango Cremoso de Mostarda e Iogurte.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -229,13 +244,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "24d60382137c012d",
+  "active": "a42c3cb6370c992b",
   "lastOpenFiles": [
     "Chicken/Pan-Fried Chicken with Creamy Yogurt Pan-Sauce.md",
+    "Frango Cremoso de Mostarda e Iogurte.md",
+    "Chicken/Creamy Mustard & Yogurt Chicken with Braised Leeks.md",
+    "Chicken/Frango Estilo Mustard-Garlic Sauté (Stove-Top Mustard Chicken).md",
     "Soup/Light Canja.md",
+    "Chicken/Frango com Molho de Mostarda e Alcaparras.md",
     "Taco Seasoning.md",
     "Chicken/​Frango com Molho de Paprika (Paprika Cream Chicken Pasta).md",
-    "Chicken/Frango Estilo Mustard-Garlic Sauté (Stove-Top Mustard Chicken).md",
     "Chicken/Frango com Caril à Moda Portuguesa.md",
     "Chicken/Bifes de Frango com Vinho Verde e Alcaparras.md",
     "Chicken/Algarve-Style Lemon Cumin Chicken.md",
