@@ -1,7 +1,7 @@
 
 ***INGREDIENTS***:
 - 1/4 C (59 ml) extra-virgin olive oil
-- 10 oz (283g) chourico, linguica or Spanish chorizo sliced into 1/4 inch (6mm) medallions (I used chourico de porco preto from Lidl)
+- 10 oz (283g) chourico, linguica or Spanish chorizo sliced into 1/4 inch (6mm) medallions (I've also used 150 grams) Porco Preto us best
 - 1 lg spanish onion, diced
 - Kosher Salt (I use flor de sal)
 - Pepper (I don't add it to the soup; Cal adds it afterward)
