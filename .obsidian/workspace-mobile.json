@@ -91,8 +91,7 @@
               "title": "Weekly Smoothie PreMix Optimized Daily Doses"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,7 +243,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "162ada2280995d89",
+  "active": "24d60382137c012d",
   "lastOpenFiles": [
     "Chicken/Creamy Mustard & Yogurt Chicken with Braised Leeks.md",
     "Soup/Caldo Verde.md",
