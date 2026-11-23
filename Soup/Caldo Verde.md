@@ -6,7 +6,7 @@
 - Kosher Salt (I use flor de sal)
 - Pepper (I don't add it to the soup; Cal adds it afterward)
 - 3 garlic cloves sliced
-- 6 med yellow potatoes (I used a whole pkg of ready to cook potatoes from Lidl; 700 g. Maybe use less next time?)
+- 6 med yellow potatoes (I used a whole pkg of ready to cook potatoes from Continente; 500 g. 
 - 200 g pre cut caldo verde greens or 1 Couve-Galega (no more is needed). Make sure to do another rough chop for smaller pieces.
 - 8 C cold water or half stock/half water
 
